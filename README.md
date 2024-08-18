@@ -3,7 +3,7 @@
 I'm Samip, a third year Computer Science student @ Sac State University. 
 
 About me:
-I'm a foreign exchange student from Nepal currently studying Computer Science at Sacramento State University. I am still learning as I go.
+I'm a foreign exchange student from Nepal learning coding and animation as I go.
 
 
 Fun facts:
