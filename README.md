@@ -37,7 +37,7 @@ I build things, break them, then build them better. When I'm not debugging, you'
 
 ## 💻 Tech Stack
 
-<img align="left" width="45%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh1NmpqbjdydXNib21zaXhoZTVrenBmbWJ2azhkeGxzYTRxZmV5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif" alt="Tech Stack"/>
+<img align="left" width="50%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh1NmpqbjdydXNib21zaXhoZTVrenBmbWJ2azhkeGxzYTRxZmV5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif" alt="Tech Stack"/>
 
 <div align="center">
 
