@@ -19,7 +19,7 @@
 
 ## 🌊 About Me
 
-<img align="right" width="40%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTMybGVsa3M2a3AwbHNmZGplb3dqdzhnODRseGYyZzZmYmI5bGI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jdFm2bcWlj4EUVCpc0/giphy.gif" alt="Working"/>
+<img align="right" width="40%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh1NmpqbjdydXNib21zaXhoZTVrenBmbWJ2azhkeGxzYTRxZmV5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif" alt="Working"/>
 
 Wannabe Full-stack developer exploring the intersection of code and creativity. Currently diving deep into AI agents while balancing my love for 3D art, musical instruments, and cinematography.
 
@@ -37,7 +37,7 @@ I build things, break them, then build them better. When I'm not debugging, you'
 
 ## 💻 Tech Stack
 
-<img align="left" width="40%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh1NmpqbjdydXNib21zaXhoZTVrenBmbWJ2azhkeGxzYTRxZmV5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif" alt="Tech Stack"/>
+<img align="left" width="40%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTMybGVsa3M2a3AwbHNmZGplb3dqdzhnODRseGYyZzZmYmI5bGI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jdFm2bcWlj4EUVCpc0/giphy.gif" alt="Tech Stack"/>
 
 <div align="center">
 
