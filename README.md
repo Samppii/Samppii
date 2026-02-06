@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/-XBRBRUMWusAAAAC/purple-flow.gif" width="100%" alt="Banner"/>
+  <img src="./banner.gif" width="100%" alt="Banner"/>
 </div>
 
 <h1 align="center">Hey, I'm Samip</h1>
