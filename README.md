@@ -99,12 +99,16 @@ Just like to vibe with my guitar every now and then.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 GitHub Space Shooter
+
+My contribution graph transformed into a retro space shooter game! Watch as my coding activity becomes an epic battle.
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samppii&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/Samppii/gh-space-shooter">
+    <img src="https://raw.githubusercontent.com/Samppii/Samppii/main/gh-space-shooter.gif" alt="GitHub Space Shooter Game" />
+  </a>
+  
+  **[🎮 Play the Game](https://gh-space-shooter.kiyo-n-zane.com)** | **[⚙️ View Source](https://github.com/Samppii/gh-space-shooter)**
 </div>
 
 ---
