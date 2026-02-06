@@ -99,18 +99,11 @@ Just like to vibe with my guitar every now and then.
 
 ---
 
-## 🚀 GitHub Space Shooter
-
-My contribution graph transformed into a retro space shooter game! Watch as my coding activity becomes an epic battle.
-
 <div align="center">
   <a href="https://github.com/Samppii/gh-space-shooter">
     <img src="https://raw.githubusercontent.com/Samppii/Samppii/main/gh-space-shooter.gif" alt="GitHub Space Shooter Game" />
   </a>
   
-  **[🎮 Play the Game](https://gh-space-shooter.kiyo-n-zane.com)** | **[⚙️ View Source](https://github.com/Samppii/gh-space-shooter)**
-</div>
-
 ---
 
 ## 📈 Contribution Graph
