@@ -75,12 +75,13 @@ I build things, break them, then build them better. When I'm not debugging, you'
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samppii&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samppii&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f9826c&text_color=fdfdfd"/>
-</div>
+  
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Samppii&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samppii&theme=radical&hide_border=true&background=0d1117&ring=f9826c&fire=f9826c&currStreakLabel=f9826c"/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samppii&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f9826c&text_color=fdfdfd&langs_count=8)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Samppii&theme=radical&hide_border=true&background=0d1117&ring=f9826c&fire=f9826c&currStreakLabel=f9826c)
+
 </div>
 
 ---
@@ -101,19 +102,21 @@ Just like to vibe with my guitar every now and then.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samppii&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Samppii&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samppii&theme=redical&hide_border=true&bg_color=0d1117&color=f9826c&line=f9826c&point=fdfdfd"/>
-</div>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Samppii&custom_title=Samip's%20Contribution%20Graph&bg_color=0d1117&color=f9826c&line=f9826c&point=fdfdfd&area_color=f9826c&area=true&hide_border=true)
 
 ---
 
 <div align="center">
   <h3>✌️ Peace</h3>
+  
+  ![](https://komarev.com/ghpvc/?username=Samppii&color=f9826c&style=flat-square&label=Profile+Views)
 </div>
