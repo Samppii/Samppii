@@ -15,7 +15,7 @@
 
 ---
 
-![About Me](https://img.shields.io/badge/About_Me-a855f7?style=for-the-badge)
+![About Me](https://img.shields.io/badge/About_Me-555555?style=for-the-badge)
 
 Senior CS student graduating December 2026, working at the intersection of software engineering, machine learning, and creative technology. Currently focused on Deep Learning and ML — building intelligent systems with PyTorch and TensorFlow while developing web applications with the MERN stack and Three.js.
 
@@ -29,7 +29,7 @@ I turn complex problems into clean, working solutions — from training neural n
 
 ---
 
-![Tech Stack](https://img.shields.io/badge/Tech_Stack-f7c855?style=for-the-badge&logoColor=black)
+![Tech Stack](https://img.shields.io/badge/Tech_Stack-555555?style=for-the-badge)
 
 <table width="100%">
 <tr>
@@ -71,7 +71,7 @@ I turn complex problems into clean, working solutions — from training neural n
 
 ---
 
-![Contribution Graph](https://img.shields.io/badge/Contribution_Graph-a855f7?style=for-the-badge)
+![Contribution Graph](https://img.shields.io/badge/Contribution_Graph-555555?style=for-the-badge)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Samppii&custom_title=Samip's%20Contribution%20Graph&bg_color=0d1117&color=a855f7&line=a855f7&point=fdfdfd&area_color=a855f7&area=true&hide_border=true)
 
