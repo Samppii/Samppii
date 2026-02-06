@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://i0.wp.com/overmental.com/wp-content/uploads/2015/03/002-NW0mK39.gif?ssl=1" width="100%" alt="Hero Banner"/>
-</div>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hey, I'm Samip
-</h1>
+<h1 align="center">Hey, I'm Samip</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samip-gurung-a6564a1b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -12,32 +6,26 @@
   <a href="https://www.youtube.com/@Samppiiii"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://www.codedex.io/@Samppiii"><img src="https://img.shields.io/badge/Codedex-7C3AED?style=for-the-badge&logo=code&logoColor=white" alt="Codedex"/></a>
   <a href="https://www.twitch.tv/sawmepoo"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
-  <a href="https://open.spotify.com/playlist/3ElKrEZMvAJQL9mnu12mwv?si=42430788e35c4147"><img src="https://img.shields.io/badge/🎧_Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/></a>
+  <a href="https://open.spotify.com/playlist/3ElKrEZMvAJQL9mnu12mwv?si=42430788e35c4147"><img src="https://img.shields.io/badge/Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/></a>
 </p>
 
 ---
 
-## 🌊 About Me
+## About Me
 
-<img align="right" width="40%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmh1NmpqbjdydXNib21zaXhoZTVrenBmbWJ2azhkeGxzYTRxZmV5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif" alt="Working"/>
+Full-stack developer building at the intersection of software engineering, machine learning, and creative technology. Currently focused on Deep Learning and ML — developing intelligent systems with PyTorch and TensorFlow while shipping production web applications with the MERN stack and Three.js.
 
-Wannabe Full-stack developer exploring the intersection of code and creativity. Currently diving deep into AI agents while balancing my love for 3D art, musical instruments, and cinematography.
+I turn complex problems into clean, working solutions — from training neural networks to architecting full-stack applications to building interactive 3D experiences. I also bring a creative background in 3D modeling, cinematography, and music production.
 
-I build things, break them, then build them better. When I'm not debugging, you'll find me in Blender sculpting something that probably doesn't need to exist, editing videos that capture moments, or making tunes that hit different at 3 AM.
-
-**Currently exploring:**
-- 🤖 MCP Agents & AI Integration
-- 🎨 Real-time 3D with Three.js
-- 🎬 Creative coding for visual effects
-- 🎵 Audio synthesis and interactive experiences
-
-<br clear="right"/>
+**Currently building expertise in:**
+- Machine Learning & Deep Learning (PyTorch, TensorFlow, Matplotlib)
+- Full-Stack Development (MongoDB, Express, React, Node.js)
+- Interactive 3D Graphics with Three.js
+- AI Agents & MCP Integration
 
 ---
 
-## 💻 Tech Stack
-
-<img align="left" width="40%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTMybGVsa3M2a3AwbHNmZGplb3dqdzhnODRseGYyZzZmYmI5bGI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jdFm2bcWlj4EUVCpc0/giphy.gif" alt="Tech Stack"/>
+## Tech Stack
 
 <div align="center">
 
@@ -47,6 +35,8 @@ I build things, break them, then build them better. When I'm not debugging, you'
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -54,11 +44,18 @@ I build things, break them, then build them better. When I'm not debugging, you'
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend**  
+**Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**ML / Data Science**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 **Creative Tools**  
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
@@ -68,14 +65,18 @@ I build things, break them, then build them better. When I'm not debugging, you'
 
 </div>
 
-<br clear="left"/>
+---
+
+## Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Samppii&custom_title=Samip's%20Contribution%20Graph&bg_color=0d1117&color=f9826c&line=f9826c&point=fdfdfd&area_color=f9826c&area=true&hide_border=true)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  
+
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Samppii&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samppii&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f9826c&text_color=fdfdfd&langs_count=8)
@@ -86,16 +87,16 @@ I build things, break them, then build them better. When I'm not debugging, you'
 
 ---
 
-## 🎯 What I'm Into
+## Beyond Code
 
-### 🎨 3D Art & Graphics
-Creating worlds that don't exist yet. From procedural generation to hand-crafted models, I love bringing imagination to life in three dimensions.
+### 3D Art & Graphics
+Building worlds from scratch — procedural generation, hand-crafted models, and bringing ideas to life in three dimensions.
 
-### 🎬 Film & Video
-Every frame tells a story. I capture moments, edit narratives, and create visual experiences that resonate.
+### Film & Video
+Capturing moments, editing narratives, and creating visual experiences that resonate.
 
-### 🎵 Musical Instruments
-Just like to vibe with my guitar every now and then.
+### Music
+Guitar player. Like to vibe every now and then.
 
 ---
 
@@ -104,16 +105,3 @@ Just like to vibe with my guitar every now and then.
     <img src="https://raw.githubusercontent.com/Samppii/Samppii/main/gh-space-shooter.gif" alt="GitHub Space Shooter Game" />
   </a>
   
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Samppii&custom_title=Samip's%20Contribution%20Graph&bg_color=0d1117&color=f9826c&line=f9826c&point=fdfdfd&area_color=f9826c&area=true&hide_border=true)
-
----
-
-<div align="center">
-  <h3>✌️ Peace</h3>
-  
-  ![](https://komarev.com/ghpvc/?username=Samppii&color=f9826c&style=flat-square&label=Profile+Views)
-</div>
