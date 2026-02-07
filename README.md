@@ -17,9 +17,9 @@
 
 ![About Me](https://img.shields.io/badge/About_Me-f7c855?style=for-the-badge&logoColor=black)
 
-Senior CS student graduating December 2026, working at the intersection of software engineering, machine learning, and creative technology. Currently focused on Deep Learning and ML — building intelligent systems with PyTorch and TensorFlow while developing web applications with the MERN stack and Three.js.
+Senior CS student graduating December 2026, working at the intersection of software engineering, machine learning, and creative technology. Currently focused on Deep Learning and ML; building intelligent systems with PyTorch and TensorFlow while developing web applications with the MERN stack and Three.js.
 
-I turn complex problems into clean, working solutions — from training neural networks to building full-stack applications to crafting interactive 3D experiences. I also bring a creative background in 3D modeling, cinematography, and music production.
+I turn complex problems into clean, working solutions; from training neural networks to building full-stack applications to crafting interactive 3D experiences. I also bring a creative background in 3D modeling, cinematography, and music production.
 
 **Currently building expertise in:**
 - Machine Learning & Deep Learning (PyTorch, TensorFlow, Matplotlib)
